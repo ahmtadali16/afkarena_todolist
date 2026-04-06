@@ -3,6 +3,7 @@
   "latestVersionName": "1.1",
   "forceUpdate": false,
   "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.1/app-release.apk",
-  "notes": "Deneme TEST",
+  "notes_tr": "Deneme TEST",
+  "notes_en":
   "minSupportedVersionCode": 1
 }
