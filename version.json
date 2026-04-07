@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
   "forceUpdate": false,
   "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.1/app-release.apk",
-  "notes_tr": "Deneme TEST",
-  "notes_en": "Test",
+  "notes_tr": "- Yeni karakter Serennia eklendi\n- Listeme karakter ve koleksiyon filtreleme geldi.\n- Kategori resimleri iyileştirildi"
+  "notes_en": "Nothing written here...",
   "minSupportedVersionCode": 1
 }
