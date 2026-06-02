@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
   "forceUpdate": false,
-  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.4/app-release.apk",
-  "notes_tr": "- Yeni karakter Highborn Severin eklendi.",
+  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.5/app-release.apk",
+  "notes_tr": "- Yeni karakter Judy & Punch eklendi.\n- Yeni Ashen Tide Relic ve Crescent Wheel koleksiyonları eklendi.",
   "notes_en": "Nothing written here...",
   "minSupportedVersionCode": 1
 }
