@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "1.5",
+  "latestVersionCode": 7,
+  "latestVersionName": "1.6",
   "forceUpdate": false,
-  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.5/app-release.apk",
-  "notes_tr": "- Yeni karakter Judy & Punch eklendi.\n- Yeni Ashen Tide Relic ve Crescent Wheel koleksiyonları eklendi.",
+  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.6/app-release.apk",
+  "notes_tr": "- Yeni karakter Awakened Eluard eklendi.\n - Yeni karakter Trix eklendi.\n - Yeni karakter Kyno eklendi.",
   "notes_en": "Nothing written here...",
   "minSupportedVersionCode": 1
 }
