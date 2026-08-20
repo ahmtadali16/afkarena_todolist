@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.6",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.7",
   "forceUpdate": false,
-  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.6/app-release.apk",
-  "notes_tr": "- Yeni karakter Awakened Eluard eklendi.\n - Yeni karakter Trix eklendi.\n - Yeni karakter Kyno eklendi.",
+  "apkUrl": "https://github.com/ahmtadali16/afkarena_todolist/releases/download/v1.7/app-release.apk",
+  "notes_tr": "- Yeni karakter Athena & Medusa eklendi.\n - Yeni karakter Valeri eklendi.",
   "notes_en": "Nothing written here...",
   "minSupportedVersionCode": 1
 }
